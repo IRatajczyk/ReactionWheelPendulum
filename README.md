@@ -1,2 +1,2 @@
 # ReactionWheelPendulum
-Reaction Wheel Pendulum physical model
+Reaction Wheel Pendulum simulation model
